@@ -1,0 +1,17 @@
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\appsettings.Development.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\appsettings.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\bower.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\bundleconfig.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\aspnet-core-dotnet-core.deps.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\aspnet-core-dotnet-core.runtimeconfig.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\aspnet-core-dotnet-core.runtimeconfig.dev.json
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\aspnet-core-dotnet-core.dll
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\bin\Debug\netcoreapp1.1\aspnet-core-dotnet-core.pdb
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.csproj.AssemblyReference.cache
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.AssemblyInfoInputs.cache
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.AssemblyInfo.cs
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.csproj.CoreCompileInputs.cache
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.dll
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.pdb
+F:\DevOpsTask\SampleApp\aspnet-core-dotnet-core\obj\Debug\netcoreapp1.1\aspnet-core-dotnet-core.genruntimeconfig.cache
